@@ -1,0 +1,26 @@
+body{
+	background-color: #D0C1A9;
+	}
+
+@font-face {
+    font-family: 'Gallient';
+    src: url('Gallient-Regular.woff2') format('woff2'),
+        url('Gallient-Regular.woff') format('woff'),
+        url('Gallient-Regular.ttf') format('truetype');
+    }
+
+#title {
+	font-family: 'Gallient';
+	font-size: 40px;
+	color: #008D57;
+	margin: 30px;
+	}
+
+#para{
+	font-family: 'Roboto Mono', monospace;
+	font-size: 16px;
+	width: 400px;
+  	border: 10px ;
+  	margin: 30px;
+	}
+
